@@ -6,10 +6,10 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Morais, young and enthusiastic dev.
+  Hi, I'm Morais, new and enthusiastic dev from Portugal.
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a professional technical course in Computer Systems in Portugal
+  👨‍🎓 I'm currently studying for a professional technical course in Computer Systems
   <br>
   💻 I love Writing code, Deep Learning, Problem Solving and learning anything about them 😊
   <br>
