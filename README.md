@@ -1,6 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+MoraisWasTaken;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
@@ -25,4 +22,12 @@
 <img width="600px"  src="https://skillicons.dev/icons?i=py,mysql,html,css,js,cs,cpp,vscode,&perline=12"  />
 </p>
 
--->
+
+
+
+
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=65&section=footer"/>
+</p>
