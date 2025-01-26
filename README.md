@@ -22,7 +22,16 @@
 <img width="600px"  src="https://skillicons.dev/icons?i=py,mysql,html,css,js,cs,cpp,vscode,&perline=12"  />
 </p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
+
+
+<p align="center">
+<a href="https://github.com/HalemoGPA/">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+ </a>
+</p>
 
 
 
