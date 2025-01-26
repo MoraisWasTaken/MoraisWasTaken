@@ -19,7 +19,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,unity,mysql,sqlite,html,css,js,cs,cpp,vscode,&perline=12"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=unity,vscode,cs,mysql,sqlite,html,css,js,cpp,&perline=12"  />
 </p>
 
 
