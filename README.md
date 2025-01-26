@@ -9,7 +9,7 @@
   Hi, I'm Morais, new and enthusiastic dev from Portugal.
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a professional technical course in Computer Systems
+  👨‍🎓 I'm currently studying for a professional technical course in Computer Systems at my school while also expanding my skills in game development through an online Unity course.
   <br>
   💻 I love Writing code, Deep Learning, Problem Solving and learning anything about them 😊
   <br>
@@ -19,7 +19,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,mysql,html,css,js,cs,cpp,vscode,&perline=12"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=py,mysql,sqlite,html,css,js,cs,cpp,vscode,&perline=12"  />
 </p>
 
 
