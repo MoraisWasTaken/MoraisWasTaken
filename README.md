@@ -13,7 +13,7 @@
   <br>
   💻 I love Writing code, Deep Learning, Problem Solving and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on making my school's Final Year Project (FYP) which is a unity game
+  📚 I’m currently focusing on making my school's Final Year Project (FYP) which is a unity game and a website
 </p>
 
 <!--Languages and Tools Section-->       
